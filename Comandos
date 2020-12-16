@@ -1,0 +1,3 @@
+pwd         / Muestra el directorio actual
+whoami      / Muestra el nombre de usuario actual
+hostname    / Muestra el nombre del host
