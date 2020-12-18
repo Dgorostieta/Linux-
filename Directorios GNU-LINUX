@@ -8,4 +8,12 @@ Directorio Raíz (/)
   Directorio /lib      #Directorio estático y que puede ser compartible
   Directorio /mnt      #Tiene la finalidad de albergar los puntos de montaje de los distintos dispositivos de almacenamiento
   Directorio /media    #Contiene los puntos de montaje de los medios extraíbles de almacenamiento
+  Directorio /opt      #Directorio /opt es estático y compartible. La función de este directorio es almacenar programas que no vienen con nuestro sistema operativo
+  Directorio /proc     #Se trata de un sistema de archivos virtual
+  Directorio /root     #Directorio variable no compartible. El directorio /root es el directorio /home del administrador del sistema (usuario root).
+  Directorio /sbin     #Almacena archivos binarios/ejecutables que solo puede ejecutar el usuario root
+  Directorio /srv      #Para almacenar directorios y datos que usan ciertos servidores que podamos tener instalados en nuestro ordenador.
+  Directorio /tmp      #Donde se crean y se almacenan los archivos temporales y las variables que los programas puedan funcionar de forma adecuada
+  Directorio /usr      #Contiene la gran mayoría de programas instalados
+  Directorio /var      #contiene archivos de datos variables y temporales como por ejemplo los registros del sistema (logs)
   
