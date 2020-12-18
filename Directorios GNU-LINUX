@@ -4,8 +4,8 @@ Directorio Raíz (/)
   Directorio /bin      #Contiene la totalidad de archivos necesarios para el arranque del ordenador excepto los archivos de configuración 
   Directorio /dev      #Estos archivos que representan nuestros dispositivos de hardware se hallan almacenados en el directorio /dev.
   Directorio /etc      #Directorio estático que contiene los archivos de configuración del sistema operativo
-  Directorio /home     #Dstinado a alojar la totalidad de archivos personales de los distintos usuarios del sistema operativo a excepción del usuario root
-  Directorio /lib      #Directorio estático y que puede ser compartible
+  Directorio /home     #Destinado a alojar la totalidad de archivos personales de los distintos usuarios del sistema operativo a excepción del usuario root
+  Directorio /lib      #Contiene bibliotecas compartidas que son necesarias para arrancar los ejecutables que se almacenan en los directorios /bin y /sbin.
   Directorio /mnt      #Tiene la finalidad de albergar los puntos de montaje de los distintos dispositivos de almacenamiento
   Directorio /media    #Contiene los puntos de montaje de los medios extraíbles de almacenamiento
   Directorio /opt      #Directorio /opt es estático y compartible. La función de este directorio es almacenar programas que no vienen con nuestro sistema operativo
