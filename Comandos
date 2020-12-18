@@ -3,8 +3,3 @@ whoami      / Muestra el nombre de usuario actual
 hostname    / Muestra el nombre del host
 cd          / Cambiar de Directorio
 
-/ Directorio Raiz
-  /home - Directorio Usuarios
-  /temp - Temporales
-  /etc  - Configuracion
-  
